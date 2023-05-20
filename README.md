@@ -1,3 +1,6 @@
+[![Cover Photo](Cover.jpg)](https://github.com/AniMilina/Parkinson-s-Freezing-of-Gait-Prediction/blob/main/Cover.jpg)
+
+
 # Parkinson's Freezing of Gait Prediction
 
 This repository contains the code and resources for the Parkinson's Freezing of Gait Prediction project.  
